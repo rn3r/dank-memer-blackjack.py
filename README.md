@@ -1,4 +1,6 @@
 # dank-memer-blackjack.py
 
-This is a dank memer blackjack clone, but meant for terminal use
-Time wasted: 1 hr 30 minutes
+- This is a dank memer blackjack clone, but meant for terminal use
+- Time wasted: 1 hr 30 minutes
+
+- I guess i can say i know typescript now 😂
